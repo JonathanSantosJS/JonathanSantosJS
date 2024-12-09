@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👨‍🎓 Estudante de Ciência da Computação: Atualmente cursando o segundo ano na faculdade de Ciência da Computação.<br><br>🔧 Atualmente Trabalhando em: Desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript e Python.<br><br>🤝 Buscando Colaborar em: Projetos de desenvolvimento web, especialmente aqueles que envolvem integração front-end e back-end.<br><br>🎯 Procurando Aprender: Frameworks JavaScript avançados e melhores práticas em desenvolvimento web.<br><br>🚀 Objetivo Futuro: Especialização em inteligência artificial, combinando programação e IA para criar soluções inovadoras.<br><br>💬 Pergunte-me sobre: Qualquer coisa relacionada a HTML, CSS, JavaScript, Python e minha jornada no desenvolvimento web e AI.<br><br>✨ Curiosidade: Adoro aplicar meus conhecimentos acadêmicos e minha paixão por tecnologia para resolver problemas reais.
 
 
